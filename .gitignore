@@ -23,7 +23,7 @@ DerivedData
 #comment added terer
 # Android/IntelliJ
 #
-#comments ramya testing
+#comments ramya testing for Beacon
 build/
 .idea
 .gradle
