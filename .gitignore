@@ -23,6 +23,7 @@ DerivedData
 #comment added
 # Android/IntelliJ
 #
+#comments
 build/
 .idea
 .gradle
