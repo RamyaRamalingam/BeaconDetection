@@ -25,7 +25,7 @@ import com.beacondetection.newarchitecture.modules.MainApplicationTurboModuleMan
 import java.util.ArrayList;
 import java.util.List;
 
-/**
+/** *
  * A {@link ReactNativeHost} that helps you load everything needed for the New Architecture, both
  * TurboModule delegates and the Fabric Renderer.
  *
